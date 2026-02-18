@@ -33,6 +33,17 @@ WikiStore is a **large-scale project** designed to provide:
 
 ---
 
+## 🛡 Security Focus
+
+WikiStore aims to provide a **robust, secure environment**:
+
+- Strong SECRET_KEY management  
+- Protected user data & credentials  
+- Encrypted transactions  
+- Safety-first design for all platform interactions  
+
+---
+
 ## 🎨 Tech & Design
 
 - Django & Python 3  
@@ -43,6 +54,8 @@ WikiStore is a **large-scale project** designed to provide:
 ---
 
 > 🚀 Goal: Build a **trusted, secure, and visually appealing platform** for blogging and online shopping.
+
+---
 
 <p align="center">
   GitHub: <a href="https://github.com/DevMrMohammad/wikistore">DevMrMohammad / wikistore</a>
